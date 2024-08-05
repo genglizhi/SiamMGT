@@ -1,2 +1,2 @@
 # SiamMGT
-RGBT target tracking for local information interaction
+Robust RGBT tracking via graph attention and reliable modal weight learning
